@@ -1,4 +1,4 @@
-# Car Price Prediction Project
+# Car Price Prediction Project (Practical Application #2)
 
 # Overview
 This assignment applies the CRISP-DM methodology to analyze and predict used car prices using the `vehicles.csv` dataset. 
